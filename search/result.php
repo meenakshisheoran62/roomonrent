@@ -1,3 +1,6 @@
+// Whenever a user select a room or pg that should be reserved for that user for some time the way tickets are reserved to overcome ambiguity.
+
+
 <?php 
  $db=mysqli_connect("localhost","root","1636ms1920","room");
       // check connection
