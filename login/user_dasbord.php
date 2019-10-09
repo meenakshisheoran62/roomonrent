@@ -1,3 +1,4 @@
+// Add the count of number of visits on the website till now and number of customers benefitted from our service.
 <?php   $db=mysqli_connect("localhost","root","1636ms1920","room");
  // check connection    
     if(!$db){
